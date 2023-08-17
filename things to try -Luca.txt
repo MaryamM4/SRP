@@ -1,0 +1,11 @@
+gdb
+tell to run via r
+cntrl c
+n or s to execute code 1 or 2 lines at time
+
+try gdb
+
+try installing older verion of dlib
+
+increase swap file memory
+
